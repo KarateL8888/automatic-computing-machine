@@ -1,1 +1,2 @@
 # automatic-computing-machine
+bitcoin:bc1qdquplvrywv24amplvy4gq8ua7qmw0px57xp7uk?amount=0.00261326
